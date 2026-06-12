@@ -18,5 +18,6 @@ public class HMSConverter {
         System.out.println("Total seconds: " + totalSeconds);
 
     /*Done with Scanner, Now Close it */
+    kbd.close();
 }
 }
